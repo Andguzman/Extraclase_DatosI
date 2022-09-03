@@ -4,17 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e74e6451-cfd4-4e1d-b1af-7c8bbcfb88f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+    <list default="true" id="e74e6451-cfd4-4e1d-b1af-7c8bbcfb88f3" name="Changes" comment="Tabla">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/extraclase/EstudianteA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/extraclase/EstudianteB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extraclase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Extraclase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/extraclase/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/extraclase/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/extraclase/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/extraclase/Estudiante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/extraclase/Filas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/extraclase/Filas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/extraclase/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/extraclase/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/extraclase/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/extraclase/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2E2mIpvBNI7eZlycNAmQ7C30Gkm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,9 +44,36 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/andre/Desktop/42fc78bf432ce7ea2d2570f74e4311bd-4da4f13338967f48330c6a819c7124dfeb78072b",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.extraclase.HelloApplication" />
+      <module name="Extraclase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.extraclase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,9 +82,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661801978570</updated>
-      <workItem from="1661801979821" duration="3000" />
+      <workItem from="1661801979821" duration="4527000" />
+      <workItem from="1661917738112" duration="4347000" />
+      <workItem from="1662152717405" duration="3699000" />
+      <workItem from="1662159549668" duration="15081000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -51,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tabla" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tabla" />
   </component>
 </project>
